@@ -1,0 +1,8 @@
+export enum AppEvents {
+  SET_AGE           = "APP/SET_AGE",
+  SET_FIRST_NAME    = "APP/SET_FIRST_NAME",
+  SET_LAST_NAME     = "APP/SET_LAST_NAME",
+  SET_ADDRESS       = "APP/SET_ADDRESS",
+  SET_PHONE_NUMBER  = "APP/SET_PHONE_NUMBER",
+  SET_EMAIL         = "APP/SET_EMAIL"
+};
